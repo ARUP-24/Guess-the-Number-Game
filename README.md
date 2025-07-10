@@ -21,13 +21,7 @@ Random number generation with random.randint()
 ▶️ How to Run
 Make sure Python 3.x is installed.
 
-Clone the repo:
-
-bash
-git clone https://github.com/yourusername/guess-the-number-game.git
-
 Run the notebook:
-
 bash
 jupyter notebook "Guess the number.ipynb"
 
